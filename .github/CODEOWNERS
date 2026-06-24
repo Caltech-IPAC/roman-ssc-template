@@ -1,0 +1,8 @@
+# Default owner for the whole repository
+* @Roman-SSC/maintainers
+
+# Protect repo governance files
+/.github/ @Roman-SSC/maintainers
+/CODEOWNERS @Roman-SSC/maintainers
+
+# Optional: specific owners by area
